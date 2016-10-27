@@ -1,2 +1,2 @@
 # google-homepage
-replicating google.com
+Just me trying to replicate the google.com search page.
